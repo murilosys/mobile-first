@@ -12,7 +12,6 @@ Esse projeto foi desenvolvido durante a aula com Mayk Brito da Rocketseat com as
 
 - HTML
 - CSS
-- Git e Github
 
 ## 🏷️ Layout
 
